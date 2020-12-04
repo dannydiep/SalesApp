@@ -11399,7 +11399,7 @@
                                         { kind: o, $content: "FeaturesAndBenefits", icon: "assets/icons/white/features.svg", classes: "small", ontap: "showView", target: "FeaturesAndBenefitsView" },
                                         { kind: o, $content: "ProductComparison", icon: "assets/icons/white/product-comparison.svg", classes: "small", ontap: "showView", target: "ProductComparisonView" },
                                         { kind: o, $content: "Handling", icon: "assets/icons/white/handling.svg", classes: "small", ontap: "showView", target: "HandlingView" },
-                                        { kind: o, $content: "AdditionalInformation", icon: "assets/icons/white/additional-information-big.svg", classes: "small", ontap: "openHtmlWebLink" },
+                                        { kind: o, $content: "AdditionalInformation", icon: "assets/icons/white/additional-information-big.svg", classes: "small", ontap: "" },
                                     ],
                                 },
                             ],
