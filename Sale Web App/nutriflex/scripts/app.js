@@ -12369,7 +12369,7 @@
                                             { name: "ProductComparison", target: "ProductComparisonView" },
                                             { name: "Handling", target: "HandlingView", subviews: ["HandlingPagerView"] },
                                             { name: "MandatoryInformation", target: "MandatoryInformationView" },
-                                            { name: "AdditionalInformation", targetHandler: "openHtmlWebLink" },
+                                            { name: "AdditionalInformation", targetHandler: "" },
                                         ],
                                     },
                                 ],
