@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/purple/points-filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="y.Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/purple/points-filled" fill-rule="nonzero">
+            <circle id="Oval-6" fill="#711E82" cx="35.5" cy="35.5" r="35.5"></circle>
+            <path d="M19.5,40 C17.0147186,40 15,37.9852814 15,35.5 C15,33.0147186 17.0147186,31 19.5,31 C21.9852814,31 24,33.0147186 24,35.5 C24,37.9852814 21.9852814,40 19.5,40 Z M35.5,40 C33.0147186,40 31,37.9852814 31,35.5 C31,33.0147186 33.0147186,31 35.5,31 C37.9852814,31 40,33.0147186 40,35.5 C40,37.9852814 37.9852814,40 35.5,40 Z M51.5,40 C49.0147186,40 47,37.9852814 47,35.5 C47,33.0147186 49.0147186,31 51.5,31 C53.9852814,31 56,33.0147186 56,35.5 C56,37.9852814 53.9852814,40 51.5,40 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0002 56 0.0002 56 56 0 56"></polygon>
+    </defs>
+    <g id="clock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M29,28.0002 C29,28.5532 28.553,29.0002 28,29.0002 L15,29.0002 C14.447,29.0002 14,28.5532 14,28.0002 C14,27.4482 14.447,27.0002 15,27.0002 L27,27.0002 L27,8.0002 C27,7.4482 27.447,7.0002 28,7.0002 C28.553,7.0002 29,7.4482 29,8.0002 L29,28.0002 Z M28,0.0002 C12.536,0.0002 0,12.5362 0,28.0002 C0,43.4642 12.536,56.0002 28,56.0002 C43.464,56.0002 56,43.4642 56,28.0002 C56,12.5362 43.464,0.0002 28,0.0002 L28,0.0002 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

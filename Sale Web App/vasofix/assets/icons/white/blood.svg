@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="18px" viewBox="0 0 11 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/other/blood White</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.5,0 C4.43133266,0 0,7.69721871 0,12.1517067 C0,15.3830594 2.46185148,18 5.5,18 C8.53814852,18 11,15.3830594 11,12.1517067 C11,7.33312263 6.56866734,0 5.5,0 M6.78687691,16.7313527 C6.03713123,16.2136536 5.9923703,14.8539823 6.69735504,13.687737 C7.40233978,12.5158028 8.58290946,11.9867257 9.34384537,12.5044248 C10.093591,13.0221239 10.1327569,14.3931732 9.43336724,15.5537295 C8.7283825,16.7199747 7.5422177,17.2490518 6.78687691,16.7313527" id="path-1"></path>
+    </defs>
+    <g id="icons/other/blood-White" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Fill-36" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+    </g>
+</svg>

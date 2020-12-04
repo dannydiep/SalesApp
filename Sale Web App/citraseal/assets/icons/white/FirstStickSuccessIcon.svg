@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="65px" viewBox="0 0 117 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>FirstStickSuccessIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="FirstStickSuccessIcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" stroke="#FFFFFF">
+            <rect id="Rectangle" stroke-width="3" fill="#FFFFFF" x="1.5" y="20.9029851" width="41.6268657" height="23.1940299"></rect>
+            <path d="M18.8492021,2.5 L14.8309155,18.8432836 L25.6343284,18.8432836 L25.6343284,2.5 L18.8492021,2.5 Z" id="Rectangle-3" stroke-width="5"></path>
+            <path d="M18.8492021,46.1567164 L14.8309155,62.5 L25.6343284,62.5 L25.6343284,46.1567164 L18.8492021,46.1567164 Z" id="Rectangle-3-Copy" stroke-width="5" transform="translate(19.888060, 54.328358) scale(1, -1) translate(-19.888060, -54.328358) "></path>
+            <rect id="Rectangle-Copy" stroke-width="3" fill="#FFFFFF" x="44.1865672" y="27.6940299" width="23.1940299" height="10.5820896"></rect>
+            <rect id="Rectangle-2" stroke-width="2" x="66.9701493" y="33.0149254" width="48.4477612" height="1"></rect>
+        </g>
+    </g>
+</svg>

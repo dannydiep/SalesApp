@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="62px" viewBox="0 0 76 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>New calculation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="New-calculation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" fill="#FFFFFF">
+            <polygon id="Fill-1" points="6 42 14 42 14 24 6 24"></polygon>
+            <polygon id="Fill-2" points="16 42 24 42 24 12 16 12"></polygon>
+            <polygon id="Fill-3" points="26 42 34 42 34 18 26 18"></polygon>
+            <polygon id="Fill-4" points="36 42 44 42 44 12 36 12"></polygon>
+            <polygon id="Fill-5" points="46 42 54 42 54 6 46 6"></polygon>
+            <path d="M0,0 L0,2.002 L0,44.002 L0,46 L2,46 L58,46 L60,46 L60,0 L0,0 Z M2,44.002 L58,44.002 L58,1.002 L2,1.002 L2,44.002 Z" id="Fill-6"></path>
+        </g>
+        <g id="icons/purple/plus-filled" transform="translate(45.000000, 31.000000)" fill-rule="nonzero">
+            <circle id="Oval-5" stroke="#908987" stroke-width="2" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+            <circle id="Oval-5" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+            <path d="M13.8992178,15.2101551 L8,9.31093729 L9.31093729,8 L15.2101551,13.8992178 L21.1093729,8 L22.4203102,9.31093729 L16.5210924,15.2101551 L22.4203102,21.1093729 L21.1093729,22.4203102 L15.2101551,16.5210924 L9.31093729,22.4203102 L8,21.1093729 L13.8992178,15.2101551 Z" id="Combined-Shape" fill="#87837E" transform="translate(15.210155, 15.210155) rotate(-45.000000) translate(-15.210155, -15.210155) "></path>
+        </g>
+        <path d="M60,62 C51.163444,62 44,54.836556 44,46 C44,37.163444 51.163444,30 60,30 C68.836556,30 76,37.163444 76,46 C76,54.836556 68.836556,62 60,62 Z M60,60 C67.7319865,60 74,53.7319865 74,46 C74,38.2680135 67.7319865,32 60,32 C52.2680135,32 46,38.2680135 46,46 C46,53.7319865 52.2680135,60 60,60 Z" id="Oval-5" fill="#908987" fill-rule="nonzero"></path>
+    </g>
+</svg>

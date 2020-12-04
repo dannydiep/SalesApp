@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Warnings</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Warnings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A_checkmark-Copy-3">
+            <circle id="Oval-5" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+            <g id="icons/white/flash" transform="translate(10.000000, 5.000000)" fill="#C5004B" fill-rule="nonzero">
+                <path d="M0.903032888,19.9983787 C0.685006364,19.8581557 4.4508577,12.0425594 4.32103179,11.699891 C4.19120588,11.3574448 0.198552962,10.1034382 0.00347659833,9.50054618 C-0.191599766,8.8972097 7.88685672,-0.172393144 8.09903321,0.0024966564 C8.31075969,0.177386457 4.57865859,8.04520526 4.68103431,8.30076215 C4.78296002,8.55631904 8.87528863,9.86254807 8.9985895,10.5003292 C9.12189036,11.1381103 1.12083441,20.1386017 0.903032888,19.9983787 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

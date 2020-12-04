@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/purple/info-filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="y.Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/purple/info-filled" fill-rule="nonzero">
+            <path d="M0,16.5 C0,25.61625 7.38375,33 16.5,33 C25.61625,33 33,25.61625 33,16.5 C33,7.38375 25.61625,0 16.5,0 C7.38375,0 0,7.38375 0,16.5 L0,16.5 Z" id="Combined-Shape" fill="#711E82"></path>
+            <path d="M15.1058768,25 L15.1020189,16.2789272 C15.1020189,15.9872633 15.0374641,15.7317205 14.9111835,15.5104118 C14.7843885,15.2893726 14.6254447,15.11335 14.4364096,14.9788395 C14.2941832,14.8791024 14.0799434,14.7834086 13.7898324,14.6922973 C13.5002358,14.6006469 13.2368726,14.5421524 13,14.5173529 L13,13.5604151 L18.9956278,13 L19,24.9997304 L15.1058768,25 Z M19,9.49985063 C19,10.880325 17.8805569,12 16.4994025,12 C15.1191444,12 14,10.880325 14,9.49985063 C14,8.11877875 15.1191444,7 16.4994025,7 C17.8805569,7 19,8.11877875 19,9.49985063 Z" id="Combined-Shape" fill="#FEFEFE"></path>
+        </g>
+    </g>
+</svg>

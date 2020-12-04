@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="912.09277"
+   height="540.27832"
+   viewBox="0 0 912.09277 540.27832"
+   version="1.1"
+   id="svg109"
+   sodipodi:docname="Tabelle04.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1444"
+     inkscape:window-height="863"
+     id="namedview678"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.76746579"
+     inkscape:cx="534.9438"
+     inkscape:cy="260.99124"
+     inkscape:window-x="39"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Group"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="312.06603,163.5252"
+       orientation="1,0"
+       id="guide1016"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="619.60978,245.54053"
+       orientation="1,0"
+       id="guide1034"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata115">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tabelle01</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs113" />
+  <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+  <title
+     id="title2">Tabelle01</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Tabelle01"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="Group">
+      <polygon
+         id="Rectangle"
+         points="601,468 300,468 300,0 601,0 "
+         transform="scale(1,1.1544409)"
+         style="fill:#00b482;fill-opacity:0.75" />
+      <text
+         id="Fully-automated"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#ffffff"
+         y="23.605492">
+        <tspan
+           x="312"
+           y="92.605492"
+           id="tspan7">Entièrement automatique</tspan>
+      </text>
+      <text
+         id="Closed-system,-coded"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         y="290.86414"
+         x="311.41452">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1018"
+           x="311.41452"
+           y="290.86414">Système fermé, connexion</tspan>
+        <tspan
+           sodipodi:role="line"
+           id="tspan1020"
+           x="311.41452"
+           y="313.36414">sécurisée</tspan>
+      </text>
+      <text
+         id="Possible"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#ffffff"
+         y="73.397095">
+        <tspan
+           x="312"
+           y="364.39709"
+           id="tspan13">Possible</tspan>
+      </text>
+      <text
+         id="Return-of-ECOCart,-d"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         x="311.61591"
+         y="430.39999">Retour des ECOCarts</text>
+      <text
+         id="2-ECOCarts-per-EU-pa"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         x="311.73734"
+         y="490.99835">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1026"
+           x="311.73734"
+           y="490.99835">2,7 ECOCarts équivalent à la</tspan>
+        <tspan
+           sodipodi:role="line"
+           id="tspan1028"
+           x="311.73734"
+           y="513.49835">surface d’une palette UE<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan1030">1</tspan>
+</tspan>
+      </text>
+      <text
+         id="2-4-min.-to-prepare,"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
+         x="311.84619"
+         y="148.80222">
+        <tspan
+           id="tspan147"
+           x="311.84619"
+           y="148.80222">2-4 min. pour préparer, produire</tspan>
+        <tspan
+           id="tspan149"
+           x="311.84619"
+           y="171.30222">et transvaser 1 lot</tspan>
+      </text>
+      <text
+         id="Semi-automated-(barc"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373737"
+         x="620.53479"
+         y="92.57473">Manutention manuelle</text>
+      <text
+         id="Closed-system"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373737"
+         y="289.18103"
+         x="620.00739">
+        <tspan
+           y="289.18103"
+           x="620.00739"
+           id="tspan123">Système fermé, utilisation</tspan>
+        <tspan
+           y="311.68103"
+           x="620.00739"
+           id="tspan125">via un capuchon spécial</tspan>
+      </text>
+      <text
+         x="126"
+         id="text40"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#373737"
+         y="71.722778">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           x="746"
+           y="362.72278"
+           id="tspan38">-</tspan>
+      </text>
+      <text
+         id="Return-of-Diamix-car"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373737"
+         y="417.46689"
+         x="619.21594">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1044"
+           x="619.21594"
+           y="417.46689">Chaque bidon/poche utilisé</tspan>
+        <tspan
+           sodipodi:role="line"
+           id="tspan1046"
+           x="619.21594"
+           y="439.96689">représente un déchet plastique</tspan>
+      </text>
+      <text
+         id="5-10-min.-to-prepare"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373737"
+         y="159.69626"
+         x="620.23773">Env. 2min par bidon/poche<tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan1032">1</tspan>
+</text>
+      <text
+         id="350-kg-/-750-liter"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373737"
+         y="224.81889"
+         x="619.62994">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1036"
+           x="619.62994"
+           y="224.81889">4,7-10 litres ; 6-12 kg par</tspan>
+        <tspan
+           sodipodi:role="line"
+           id="tspan1038"
+           x="619.62994"
+           y="247.31889">bidon/poche</tspan>
+      </text>
+      <text
+         y="25.663094"
+         x="618.28998"
+         id="Granumix-plus"
+         font-size="18"
+         font-weight="bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;font-family:Arial-BoldMT, Arial;-inkscape-font-specification:'Arial-BoldMT, Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373737">
+        <tspan
+           sodipodi:role="line"
+           id="tspan680"
+           x="618.28998"
+           y="25.663094">Bidon/poche de concentrés</tspan>
+        <tspan
+           sodipodi:role="line"
+           id="tspan682"
+           x="618.28998"
+           y="48.163094">acides liquides</tspan>
+      </text>
+      <text
+         y="12.578621"
+         id="ECOMix-Revolution"
+         font-size="18"
+         font-weight="bold"
+         style="font-weight:bold;font-size:18px;font-family:Arial-BoldMT, Arial;fill:#ffffff">
+        <tspan
+           x="312"
+           y="38.578621"
+           id="tspan63">ECOMix Revolution</tspan>
+      </text>
+      <text
+         id="220-kg-/-800-liter-1"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#ffffff"
+         x="312.30682"
+         y="224.79692">
+        <tspan
+           y="224.79692"
+           x="312.30682"
+           id="tspan115">220 kg / 800 litres 1+34</tspan>
+        <tspan
+           y="247.29692"
+           x="312.30682"
+           id="tspan117">220 kg / 622 litres 1+44</tspan>
+      </text>
+      <text
+         id="Product-handling"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#373737"
+         y="23.570335">
+        <tspan
+           x="1"
+           y="92.570335"
+           id="tspan71">Manipulation du produit</tspan>
+      </text>
+      <text
+         id="Hygiene-of-system"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#373737"
+         y="58.250854">
+        <tspan
+           x="1"
+           y="300.25085"
+           id="tspan74">Hygiène du système</tspan>
+      </text>
+      <text
+         id="Online-capabilities"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373737"
+         y="364.43225"
+         x="-0.32571429">Télémaintenance</text>
+      <text
+         id="Environmental-protec"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#373737"
+         y="72.356049">
+        <tspan
+           x="1"
+           y="430.35605"
+           id="tspan82">Protection de l’environnement</tspan>
+      </text>
+      <text
+         id="Space-requirements"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#373737"
+         y="91.134094">
+        <tspan
+           x="1"
+           y="502.13409"
+           id="tspan85">Espace requis</tspan>
+      </text>
+      <text
+         id="Handling-workload"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#373737"
+         y="36.399872">
+        <tspan
+           x="0"
+           y="158.39987"
+           id="tspan91">Temps d’utilisation</tspan>
+      </text>
+      <text
+         id="Weight"
+         font-size="18"
+         font-weight="normal"
+         style="font-weight:normal;font-size:18px;font-family:ArialMT, Arial;fill:#373737"
+         y="48.725632">
+        <tspan
+           x="1"
+           y="237.72563"
+           id="tspan94">Poids</tspan>
+      </text>
+      <path
+         d="M 0.5,112.5 H 911.59275"
+         id="Line"
+         style="stroke:#ffffff;stroke-linecap:square"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0.5,199.5 H 911.59275"
+         id="path98"
+         style="stroke:#ffffff;stroke-linecap:square"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0.5,262.5 H 911.59275"
+         id="Line-Copy"
+         style="stroke:#ffffff;stroke-linecap:square"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0.5,327.5 H 911.59275"
+         id="Line-Copy-2"
+         style="stroke:#ffffff;stroke-linecap:square"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0.5,390.5 H 911.59275"
+         id="Line-Copy-3"
+         style="stroke:#ffffff;stroke-linecap:square"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0.5,453.5 H 911.59275"
+         id="Line-Copy-4"
+         style="stroke:#ffffff;stroke-linecap:square"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0.5,65.5 H 911.59275"
+         id="path105"
+         style="stroke:#ffffff;stroke-linecap:square"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="631.0625"
+         y="422.85834"
+         id="text192"><tspan
+           id="tspan190"
+           x="631.0625"
+           y="458.24896" /></text>
+      <text
+         x="620.17523"
+         id="Return-of-Diamix-car-1"
+         font-size="18"
+         font-weight="normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:ArialMT, Arial;-inkscape-font-specification:'ArialMT, Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#373737;fill-rule:evenodd;stroke:none;stroke-width:1;"
+         y="503.4964">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1040">0,96 m² occupé pour une palette<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1042">1</tspan>
+</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

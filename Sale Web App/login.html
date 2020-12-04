@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Digital Sale Login Page</title>
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="stylesheet" href="css/all.min.css">
+</head>
+
+<body bgcolor="#334a5a">
+
+
+    <div class="frame">
+
+        <h2>B Braun</h2>
+
+        <div class="login">
+            
+
+
+            <form name="login">
+
+
+                <div class="sign-in">Sign In</div>
+                <div class="input">
+                    <input type="text" placeholder="Username" name="userid">
+                    <br>
+                    <input type="Password" placeholder="Password" name="pswrd">
+                </div>
+
+
+            
+
+            
+
+                <div class="login-remember-forget">
+
+                    <input class="login-button" type="button" onclick="check(this.form)" value="Login"/>
+
+                    <input class="reset-button" type="reset" value="Reset"/>
+                    
+                    <!-- <div class="login-button">Login</div> -->
+                    <div class="checkbox">
+                        <input type="checkbox" name="Rememner" value="Remember"> Remember
+                    </div>
+
+                    <div class="forgot"><a href="">Forgot Password?</a></div>
+
+                </div>
+
+                <div class="login-option">
+                    <div class="or-login-with">Or login with</div>
+
+                    <a href="https://www.facebook.com/"><i style="color: #3b5998;" class="fab fa-facebook"></i></a>
+                    <i style="color: #1dcaff;" class="fab fa-twitter"></i>
+                    <i style="color: #dd4b39;" class="fab fa-google-plus"></i>
+                    <i style="color: #0e76a8;" class="fab fa-linkedin"></i>
+                </div>
+
+                <div class="create-an-account">Create An Account</div>
+
+            </form>
+        </div>
+
+    
+
+        <div class="copy_right">2020 @ BBVN IT and OPEX</div>
+
+    </div>
+
+
+    <script language="javascript">
+
+        function check(form) { /*function to check userid & password*/
+
+            /*the following code checkes whether the entered userid and password are matching*/
+
+            if(form.userid.value == "sale" && form.pswrd.value == "1234") {
+
+                window.open('https://htmlpreview.github.io/?https://github.com/dannydiep/BBRAUNVN/blob/master/Sale%20Web%20App/homepage.html')/*opens the target page while Id & password matches*/
+
+            }
+
+            else {
+
+                alert("Error Password or Username")/*displays error message*/
+
+            }
+
+        }
+
+    </script>
+
+</body>
+
+</html>

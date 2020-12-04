@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/purple/plus-filled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="y.Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/purple/plus-filled" fill-rule="nonzero">
+            <circle id="Oval-5" fill="#711E82" cx="15" cy="15" r="15"></circle>
+            <polygon id="+" fill="#FFFFFF" points="13.7706612 22 13.7706612 16.1919505 8 16.1919505 8 13.7647059 13.7706612 13.7647059 13.7706612 8 16.2293388 8 16.2293388 13.7647059 22 13.7647059 22 16.1919505 16.2293388 16.1919505 16.2293388 22"></polygon>
+        </g>
+    </g>
+</svg>
